@@ -1,5 +1,5 @@
 /* * * * * * * * * * * * * * * * *
-* filename: CS427Assignment2.cpp *
+* filename: CS427Assignment3.cpp *
 * author: Konstantin Kharitonov  *
 * SID: 200354502                 *
 * class: CS 427                  *
